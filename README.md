@@ -2,6 +2,8 @@
 
 ![video](./Screenshots/video.gif)
 
+You can down load the latest version of this project via [this link](https://api.github.com/repos/ku6ryo/OSC-Sample_STYLY-for-VisionPro/zipball/).
+
 # Controller
 This demo Unity project assumes that you're using [TouchOSC iOS app](https://apps.apple.com/jp/app/touchosc-mk1/id288120394). However, you can use other OSC controllers (app, devices) in STYLY and you can learn how to realize OSC communication with this project.
 
