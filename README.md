@@ -1,0 +1,1 @@
+[STYLY for Vision Pro](https://spatial-layer.styly.cc/) supports [OSC](https://opensoundcontrol.stanford.edu/). Users can create STYLY contents receives OSC messages. This is a simple example controlling contents by OSC.
