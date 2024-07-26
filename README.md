@@ -1,4 +1,4 @@
-[STYLY for Vision Pro](https://spatial-layer.styly.cc/) supports [OscJackVS](https://github.com/keijiro/OscJackVS) for [OSC](https://opensoundcontrol.stanford.edu/) receiving OSC messages in contents. This is a simple example controlling contents by OSC. This project is built on Unity 2022.3.27.
+[STYLY for Vision Pro](https://spatial-layer.styly.cc/) supports [OscJackVS](https://github.com/keijiro/OscJackVS) for receiving [OSC](https://opensoundcontrol.stanford.edu/) messages in contents. This is a simple example controlling contents by OSC. This project is built on Unity 2022.3.27.
 
 ![video](./Screenshots/video.gif)
 
