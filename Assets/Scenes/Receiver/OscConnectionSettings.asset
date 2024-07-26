@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: OscConnectionSettings
   m_EditorClassIdentifier: 
   type: 0
-  host: 192.168.128.76
+  host: 
   port: 8000
