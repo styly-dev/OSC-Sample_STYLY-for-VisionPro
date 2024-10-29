@@ -45,3 +45,6 @@ You see the `Osc Connection Settings` created above as the `Connection` paramete
 On Unity Editor, OscJack has a monitoring tool `OSC Monitor` for OSC messages. Please open it through [Window] --> [OSC Monitor]. When you play the scene and manipilate controller UI componens, the addresses and values are showin the tool. By using that, you can find addresses of controller UI components and can use them in VisualScripting.
 
 ![osc monitor](./Screenshots/osc_monitor.png)
+
+# Trouble shooting
+If your content does not respond to your controller input, please consider to force kill STYLY for Vision Pro app. To kill the app, please long press the buttons on the top of Vision Pro (the top button and the crown button) and select STYLY for Vision Pro.
